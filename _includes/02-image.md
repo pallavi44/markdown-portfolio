@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+ ![image of flower] pexels-photo-736230.jpeg
