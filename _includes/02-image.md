@@ -1,1 +1,1 @@
- ![image of flower] pexels-photo-736230.jpeg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
